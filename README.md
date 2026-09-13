@@ -1,5 +1,7 @@
 # Wind Turbine Performance Review
 
+[Open the interactive dashboard](https://abufanasa-dotcom-wind-turbine-performance-app-vtq3j5.streamlit.app/)
+
 Independent portfolio project by Ahmed Abufanas. Built with AI-assisted development and step-by-step engineering review.
 
 Analyze historical SCADA measurements from Kelmarsh turbine 1, estimate power from wind conditions, and prioritize sustained deviations for human review. The Streamlit dashboard displays saved analysis results; it does not ingest live telemetry or run online predictions.
