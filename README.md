@@ -8,7 +8,7 @@ Analyze historical SCADA measurements from Kelmarsh turbine 1, estimate power fr
 
 ## Current status
 
-Local Windows prototype demonstrated by the author. Data checks, model comparisons, event review, dashboard selection, CSV download, and methodology display were exercised. A fresh-environment rebuild, automated regression tests, external-year evaluation, and public deployment have not yet been verified.
+Deployed on Streamlit Community Cloud. The dashboard loaded successfully and displayed the saved evaluation results. Local checks covered event selection, CSV download, and methodology display. Public access and interactive features on the hosted version still need a final check. A full analysis rebuild in a fresh environment, automated regression tests, and external-year evaluation have not yet been completed.
 
 ## Data and attribution
 
